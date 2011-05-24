@@ -1,0 +1,10 @@
+=============================================================================
+Find more about the lame micro-framework at
+http://cubiq.org/
+
+Copyright (c) 2010 Matteo Spinelli, http://cubiq.org/
+Released under MIT license
+http://cubiq.org/dropbox/mit-license.txt
+=============================================================================
+
+I really like LMFw but it needed a few tweak to pass the JSLint test
