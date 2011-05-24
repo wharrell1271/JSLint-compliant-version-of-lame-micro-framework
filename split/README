@@ -1,0 +1,21 @@
+=============================================================================
+Find more about the lame micro-framework at
+http://cubiq.org/
+
+Copyright (c) 2010 Matteo Spinelli, http://cubiq.org/
+Released under MIT license
+http://cubiq.org/dropbox/mit-license.txt
+=============================================================================
+
+=============================================================================
+I really like LMFw but it needed a few tweaks to pass the JSLint test
+-Wade Harrell
+=============================================================================
+
+=============================================================================
+LMFw-Split intended for use in group app dev
+Replace "myNameSpace" with the namespace of your app
+In a group environment each section would be its own file
+Best merged with a build tool
+But also could be loaded with sequential script tags or injection
+=============================================================================
